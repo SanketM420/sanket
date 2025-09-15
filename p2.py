@@ -4,4 +4,5 @@ for i in range(rows):
         print(" ",end = " ")
     for j in range(2*i+1):
         print("*" , end =" ")
+        print("hello")
     print()        
